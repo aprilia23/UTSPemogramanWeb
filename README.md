@@ -1,9 +1,9 @@
 Nama    : Aprilia Nur Saadah<p>
-NIM     : 311910302
-Kelas   : TI.19.B1
-Mata Kuliah : Pemograman Web - UTS
+NIM     : 311910302<p>
+Kelas   : TI.19.B1<p>
+Mata Kuliah : Pemograman Web - UTS<p>
 
-Sumber Referensi
+Sumber Referensi : <p>
 https://www.canva.com/design/DAEdcbr-gVE/RNpMLvzShrHtUZAZnwgMZw/edit?layoutQuery=mockup
 
 https://www.canva.com/design/DAEboHY36bw/KutDXa28cDYgQWybL7l40A/edit
